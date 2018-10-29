@@ -20,7 +20,7 @@ One of my five goals that works towards this vision statement is making the reso
 
 * Links to the view-only Googe Slides are provided in the next section. Pdf's were generated from these and might be easier to read intially. The pdf's are located in this repository under the corresponding Merit Badge directory.
 
-* Pay close attention to the notes associated to each slide. There are also additional links in the documents for more shared resources. The resources are available on both Google Drive and also located in this repository under the appropriate directory. Resources will include sample programs, worksheets, feedback forms, attendance sheets, etc...
+* Pay close attention to the notes associated with each slide. There are also additional links in the documents for more shared resources. The resources are available on both Google Drive and also located in this repository under the appropriate directory. Resources will include sample programs, worksheets, feedback forms, attendance sheets, etc...
 
 * Read through the slides and get a sense of the specifics such as the chosen circuits and sample programs. These may or may not suite your needs and can be replaced accordingly by making your own copy of the presentation.
 
