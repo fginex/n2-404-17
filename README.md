@@ -46,7 +46,7 @@ In addition to the shared Google Slides I have also placed pdf versions of the p
 
 ## How To Contribute
 
-Please feel free to contact me via github regarding any questions or improvements that can be made. I welcome Feedback and look forward to improving this material with collaboration.
+Please feel free to contact me via github regarding any questions or improvements that can be made. I welcome Feedback and look forward to improving this material with the collaboration of others.
 
 Enjoy!
 
