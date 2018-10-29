@@ -1,4 +1,4 @@
-# n2-404-17
+# Shared STEM-Based Merit Badge Workshop Resources
 
 Greetings fellow Scouters,  
 
