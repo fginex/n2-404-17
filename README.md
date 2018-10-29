@@ -16,7 +16,7 @@ Programming Merit Badge Workshop:</br>
 https://docs.google.com/presentation/d/1VjoufLoqhBCsMO6euw0kX4V9obhaQ6QXGWrV9fbSBCc/edit?usp=sharing
 
 Electronics Merit Badge Workshop:</br>
-Coming soon...
+https://docs.google.com/presentation/d/11fFiqbtCuwAG3z8iGx0sVSC9XyJ8Juk7A6Yp1b4ZbGA/edit?usp=sharing
   
 
 Pay close attention to the notes associated to each slide. There are also additional links in the documents for more shared resources.
