@@ -8,7 +8,7 @@ I'm a participant in the BSA Wood Badge adult training program (class of N2-404-
 
 ## Encouraging More STEM-Based Merit Badge Counselors
 
-Each participant of the Wood Badge program is responsible to come up with a set of 5 goals to improve their unit within 18 months of completing the course. These 5 goals are called a "Ticket" and the vision statement for mine is as follows:  
+Each participant of the Wood Badge program is responsible to come up with a set of 5 goals to improve their unit and complete them within 18 months of taking the course. These 5 goals are called a "Ticket" and the vision statement for mine is as follows:  
 
 >Enhance the availability of the STEM program within my unit and encourage other counselors outside my unit to offer STEM-Based workshops.
 
